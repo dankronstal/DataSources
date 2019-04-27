@@ -1,0 +1,417 @@
+Client,Project,ProjectCode,Type
+Access Pipeline,Remediation of SharePoint Issues,07-PS,Cloud Prod
+Access Pipeline,SAMSAM Cryptolocker Incident,12-ACCES2016-008-PS,Other
+BluEarth Renewables,Office 365 Migration,14-BLUEA2016-001-PS,Cloud Prod
+Stratiform,Azure Billing Tool,STRAT2017-001-PS,Azure
+WestJet Encore,ICAS Project,04-WESTJ2014-001-PS,Dev
+Bennett Jones,Windows 10 Enterprise and Office 2016,01-BENNE2016-002-PS,Mod Comp
+Pacific Blue Cross,Azure ADFS and ProPlus Implementation,04-PACIF2016-003-PS,Cloud Prod
+KAL TIRE,Provisioning Strategy & Toolset,03-KALTI2016-003-PS,Azure
+Paramount Resources LTD.,SCCM/App-V Implementation,12-PARAM2016-002-PS,Mod Comp
+Carey Management Inc.,Office 365 Implementation,12-CAREY2016-001-PS,Cloud Prod
+Canadian Natural Resources Limited,OMS Log Analytics POC,01-CANAD2016-001-PS-MF,Azure
+Ridgeback Resources Inc.,Exchange 2016 Upgrade,02-LIGHT2016-002-PS,Cloud Prod
+AltaLink,QAT Sharepoint in Azure Deployment,12-ALTAL2016-002-PS,Cloud Prod
+Canexus Corporation,MS Cloud Strategy & Readiness,01-CANEX2016-003-PS,Azure
+Peloton Computer Enterprises,Prodview SaaS Architectural Planning,12-PELOT2016-004-PS,Other
+Hylife Ltd,Exchange Online Migration,02-HYLIF2016-002-PS,Cloud Prod
+Fountain Tire,Azure Site Recovery Implementation - Phase 2,02-FOUNT2016-003-PS,Azure
+MEG Energy,Offsite Services Readiness Planning,12-MEGEN2016-003-PS,Azure
+Fountain Tire,Azure Site Recovery Production Implementation,01-FOUNT2016-004-PS,Azure
+Censeo Group,SharePoint Online at PennWest,01-CENSE2016-002-PS,Cloud Prod
+KAL TIRE,Windows 10,10-KALTI2017-001-PS,Mod Comp
+Rogers Insurance,Office 365 Migration,02-ROGERS2016-001-PS,Cloud Prod
+Saje,Azure Everywhere,10-SAJE2016-001-PS-MF,Azure
+Calfrac Well Services,Build and Release Management Configuration,03-CALFR2016-001-PS,Dev
+Bennett Jones,Exchange 2016 Implementation,01-BENNE2016-003-PS,Cloud Prod
+Integrated Environments (2006) Ltd.,Azure Drone Servers,07-INTEG2016-006-PS,Azure
+Alberta Securities Commission,Exchange Online Implementation,01-ALBER2017-001-PS,Cloud Prod
+Bonavista Energy,Microsoft Program Management,01-BONAV2015-002-PS,Mod Comp
+ATCO Ltd,OneDrive for Business Migration,12-ATCOG2016-003-PS,Cloud Prod
+Integrated Environments (2006) Ltd.,Proceed Azure Migration,07-INTEG2016-001-PS,Azure
+Pembina Pipeline Corporation,SQL in Azure,01-PEMBI2017-001-PS-MF,Azure
+Integrated Environments (2006) Ltd.,Infrastructure Planning,07-INTEG2014-001-PS,Azure
+ARC Resources Ltd.,Ad Hoc,01-ARCRE2016-003-PS-MF,Other
+Liquor Stores GP,Azure Site Recovery Design,01-LIQUO2016-001-PS,Azure
+Vista Projects,Support Services2,12-VISTB2016-004-PS,Other
+Vista Projects,Support Services,12-VISTB2014-001-PS,Other
+Access Pipeline,Exchange Server Decommission,12-ACCES2016-006-PS,Cloud Prod
+Media Logic,Azure Migration,16-MEDIA2015-001-PS,Azure
+Pengrowth Energy Corporation,Adhoc Consulting,01-PENGR2016-002-PS,Other
+Trimac Management Services LP,Azure AD Connect Upgrade,01-TRIMA2016-002-PS,Cloud Prod
+County of Rocky View,Exchange 2013 Upgrade - Implementation Phase,01-COUNT2017-001-PS-MF,Cloud Prod
+Boardwalk Equities,AD Cleanup,12-BOARD2016-04-PS,Cloud Prod
+ATCO Ltd,Windows 10 Enterprise Pilot,12-ATCOG2016-002-PS-MF,Mod Comp
+United Safety Ltd.,Ad Hoc Consulting,12-UNITE2017-001-PS,Other
+Paramount Resources LTD.,Exchange Online Migration,12-PARAM2016-001-PS,Cloud Prod
+Bonavista Energy,Citrix SSL Certification,02-BONAV2016-005-PS,Mod Comp
+PE Computer Services Ltd o/a Go Auto,Azure Assessment,01-GOAUT2017-001-PS,Azure
+Travel Alberta,Dev/Ops Architect Role,01-TRAVA2017-002-PS,Azure
+Bonavista Energy,Azure Rights Management & HR Test Documents,01-BONAV2017-001-PS,Azure
+Access Pipeline,Password Hardening & Policy Configuration,12-ACCES2017-001-PS,Cloud Prod
+WestJet Encore,General Consulting,12-WESTJ2017-001-PS,Dev
+The Ship & Anchor Pub,OneNote Setup,14-THESH2017-002-PS,Cloud Prod
+DIRTT Environmental Solutions Ltd.,Ad Hoc SCCM Training,01-DIRTT2016-003-PS,Mod Comp
+Travel Alberta,Windows Intune Desktop Management & Decomm of SCCM,01-TRAVA2017-001-PS,Mod Comp
+De Beers Canada Inc.,Microsoft Intune POC,14-DEBEE2016-002-PS,Mod Comp
+Sproule Associates,MS Exchange Autodiscover Sync Issues,14-SPROU2017-002-PS,Cloud Prod
+Access Pipeline,Consulting,12-ACCES2014-001-PS,Other
+DIRTT Environmental Solutions Ltd.,Microsoft InTune MDM Implementation,01-DIRTT2016-002-PS,Mod Comp
+BCAA,Office 365 Base Framework,10-BCAA2017-001-PS,Cloud Prod
+Bellatrix Exploration,Health Check and Planning,01-BELLAT2016-001-PS,Cloud Prod
+Altitude Communications,Senior Network Consultant,01-ALTIT2017-001-PS,Other
+Horizon North Logistics,Exchange in Azure,01-HORIZ2016-001-PS - MF,Cloud Prod
+Fountain Tire,Azure Site Recovery Planned Failover,01-FOUNT2016-005-PS,Azure
+Integrated Environments (2006) Ltd.,Q9 Move Out,07-INTEG2016-005-PS,Azure
+Rogers Insurance,SharePoint Online Setup,01-ROGER2017-001-PS,Cloud Prod
+Access Pipeline,Deployment of LAPS,12-ACCES2017-003-PS,Mod Comp
+UFA,Office 365 Planning and Assessment,12-UFA2016-001-PS-MF,Cloud Prod
+ATCO Ltd,OMS Upgrade Analytics POC,12-ATCOG2016-001-PS-MF,Azure
+City Of Calgary,Azure Everywhere,01-CITYO2017-001-PS-MF,Azure
+Access Pipeline,"Certificate Authority Migration, DHCP Server Migration, FSMO Role Migration & DC Decommission",12-ACCES2017-002-PS,Cloud Prod
+Boardwalk Equities,Office 365 Migration,12-BOARD2017-001-PS,Cloud Prod
+Peloton Computer Enterprises,Four Corners - SQL Health Delivery Report & Remediation Work,12-PELOT2017-001-PS,Data
+Trimac Management Services LP,Investigate MS Toolset & PeopleSoft Integration,01-TRIMB2017-001-PS,Other
+Peloton Computer Enterprises,Tourmaline - RDS T&M Work,12-PELOT2016-003-PS,Mod Comp
+KAL TIRE,Azure Optimization Efforts Phase 2,10-KALTI2017-002-PS,Azure
+Sproule Associates,Microsoft Exchange JV,14-SPROU2017-003-PS,Cloud Prod
+Peloton Computer Enterprises,Cloud Services Architect,12-PELOT2017-004-PS,Azure
+Saskatchewan Law Courts,Azure Overview and Training,14-SASKB2017-001-PS-MF,Azure
+Graham Management Services LP,Deployment of Win10 & Office 2016 Images,01-GRAHA2017-001-PS-MF,Mod Comp
+PE Computer Services Ltd o/a Go Auto,Azure AD Premium Enablement,01-GOAUT2017-002-PS-MF,Cloud Prod
+Peloton Computer Enterprises,SQL Health Delivery Report & Remediation,12-PELOT2017-003-PS,Data
+Trinidad Drilling,Azure Optimization Efforts,01-TRINI2016-001-PS-MF,Azure
+NOVA Chemicals Corporation,Windows 10 Enterprise Assessment and Planning,12-NOVAC2017-001-PS-MF,Mod Comp
+DIRTT Environmental Solutions Ltd.,CSP Migration & Azure Upgrade,01-DIRTT2017-001-PS,Azure
+Bonavista Energy,Azure Architect,01-BONAV2017-005-PS,Azure
+Westcor Construction,SharePoint PoC,16-WESTC2017-001-PS,Cloud Prod
+Horizon North Logistics,Citrix Cloud Platform,01-HORIZ2017-001-PS,Mod Comp
+NOVA Chemicals Corporation,Exchange Online Migration,12-NOVAC2017-002-PS,Cloud Prod
+County of Rocky View,Exchange 2013 Upgrade - Coexistence Phase,01-COUNT2017-002-PS,Cloud Prod
+Access Pipeline,Security Toolset Planning,12-ACCES2017-004-PS,Cloud Prod
+Access Pipeline,Avantis 6.0 Test Environment,12-ACCES2017-005-PS,Azure
+Trimac Management Services LP,Implementing SCOM & SCORCH,01-TRIMA2017-002-PS,Mod Comp
+Pacific Western Transportation,Microsoft Domain Controller Upgrade,14-PACIA2016-001-PS-MF,Cloud Prod
+Absolute Software,Enterprise Scaffolding,10-ABSOL2017-001-PS,Azure
+FORTISALBERTA INC,OMS Log Analytics Analysis,12-FORTI2017-001-PS-MF,Azure
+Parkland Fuel Corporation,AD Architectural Consulting Engagement,01-PARKL2017-001-PS,Cloud Prod
+Calfrac Well Services,PKI Health Check,12-CALFR2017-001-PS,Cloud Prod
+Bonavista Energy,Azure VM Move from ASM to ARM,01-BONAV2016-006-PS-MF,Azure
+Travel Alberta,SharePoint Development,01-TRAVA2017-005-PS,Cloud Prod
+CPA Ontario,Office 365 Tenant Migration,13-CPA2017-001-PS,Cloud Prod
+Stratiform,Managed Services Support,STRAT2017-002-PS,Other
+BCAA,Phase 2 Workshops,10-BCAA2017-002-PS,Cloud Prod
+Crescent Point Energy Corp.,Skype for Business Hybrid Deployment,12-CRESC2017-001-PS,Cloud Prod
+AltaLink,QAT SharePoint in Azure Deployment & Remediation,12-ALTAL2017-001-PS,Cloud Prod
+Chemtrade Logistics Inc.,Desktop and Application Support,01-CHEMT2017-001-PS,Mod Comp
+Paramount Resources LTD.,App Packaging,12-PARAM2017-002-PS,Mod Comp
+Trican Well Service Ltd.,Azure Architecture,01-TRICA2017-001-PS-MF,Azure
+Bonavista Energy,OWAS Upgrade,01-BONAV2017-008-PS,Other
+Tundra Energy Marketing Limited,Azure Workshop,14-TUNDR2017-001-PS,Azure
+Vista Projects,Infrastructure Consulting,12-VISTB2017-001-PS,Other
+City of White Rock,Office 365 FastTrack Planning Engagement,10-CITYA2017-001-PS,Cloud Prod
+Fountain Tire,Palo Alto Connection to Azure,01-FOUNT2017-001-PS,Azure
+Cenovus Energy Inc.,Cloud Phase 1 Foundations,14-CENOV2017-001-PS,Azure
+Fountain Tire,Citrix XenApp Essentials Design,01-FOUNT2017-002-PS,Mod Comp
+DBG Canada,Office 365 Migration POC,13-DBGCA2017-001-PS,Cloud Prod
+Combined Metal Industries Inc.,OneDrive for Business Readiness Assessment Workshop,13-COMBI2017-001-PS,Cloud Prod
+ARC Resources Ltd.,Microsoft Consulting Services,01-ARCRE2017-001-PS,Other
+Tundra Energy Marketing Limited,TOMM App Migration,14-TUNDR2017-002-PS,Dev
+Access Pipeline,Orion Server Build,12-ACCES2017-006-PS,Azure
+Paramount Resources LTD.,Microsoft Consulting Services Agreement,12-PARAM2017-001-PS,Other
+BCAA,Office 365 Implementation,10-BCAA2017-003-PS,Cloud Prod
+Pason,Azure Foundations Engagement,01-PASON2017-001-PS-MF,Azure
+Access Pipeline,SCADA Session Hosts,12-ACCES2017-007-PS,Mod Comp
+Calfrac Well Services,SCCM in Azure,12-CALFR2017-002-PS,Mod Comp
+Bellatrix Exploration,18090118 MS Enterprise Software-BXE.com Domain Migration,01-BELLA2017-001-PS,Cloud Prod
+United Safety Ltd.,Power BI & Exchange Consulting,12-UNITE2017-002-PS,Cloud Prod
+Bellatrix Exploration,Infrastructure Architect Resource,01-BELLA2017-003-PS,Cloud Prod
+NOVA Chemicals Corporation,Exchange Online User Ingestion,12-NOVAC2017-003-PS,Cloud Prod
+Access Pipeline,Power BI On-Prem Gateway,12-ACCES2017-009-PS,Data
+De Beers Canada Inc.,SharePoint 2010 Migration,14-DEBEE2017-001-PS,Cloud Prod
+Alberta Securities Commission,Exchange Upgrade Planning and Assessment,01-ALBER2016-001-PS,Cloud Prod
+National Health Claim,Network Reconfiguration,NATIO2017-001-PS,Other
+Peloton Computer Enterprises,SQL Architect,12-PELOT2017-005-PS,Data
+Corix Infrastructure Inc.,Office 365 Base Framework,10-CORIX2017-001-PS,Cloud Prod
+Paramount Resources LTD.,InTune Implementation,12-PARAM2017-003-PS,Mod Comp
+City Of Calgary,Azure Resiliency & Framework,01-CITYO2017-002-PS-MF,Azure
+Lululemon,Windows 10 Optimization,10-LULU2017-001-PS,Mod Comp
+Tundra Energy Marketing Limited,Azure Health Check and Strategic Roadmap,14-TUNDR2017-003-PS,Azure
+Bellatrix Exploration,18090118 MS Enterprise Software- Exchange Online Migration,01-BELLA2017-002-PS,Cloud Prod
+Sproule Associates,Exchange Upgrade,14-SPROU2017-001-PS,Cloud Prod
+Access Pipeline,Security Tools Implementation,12-ACCES2017-008-PS,Other
+Capital Power Corp.,Windows 10 Optimization,12-CAPIT2017-001-PS,Mod Comp
+ATCO Ltd,EOP/ATP Advisory Services,12-ATCOG2017-001-PS,Cloud Prod
+Bonavista Energy,SharePoint Assessment & Roadmap,01-BONAV2017-007-PS,Cloud Prod
+Bonavista Energy,"Azure Planning, Approach & Costing",01-BONAV2017-006-PS,Azure
+Newcastle Homes,SharePoint and OneDrive Data Migration,NEWCA2017-001-PS,Cloud Prod
+Bellatrix Exploration,18090118 MS Enterprise Software-SCCM & Office ProPlus Implementation,01-BELLA2017-004-PS,Mod Comp
+Absolute Software,SharePoint Phase 2,10-ABSOL2017-002-PS,Cloud Prod
+Graham Management Services LP,Windows 10 Planning and Envisioning,01-GRAHA2017-002-PS-MF,Mod Comp
+Encana Corporation,Azure Base Framework,14-ENCAN2017-002-PS,Azure
+Pengrowth Energy Corporation,Ad-Hoc SCCM Work,01-PENGR2017-001-PS,Mod Comp
+TransAlta Corporation,DPM & StorSimple Implementation,14-TRANS2017-002-PS,Azure
+Farm Business Consultants,Azure Engagement,01-FARMB2017-001-PS,Azure
+Access Pipeline,Active Directory & DFS Assessment,12-ACCES2017-010-PS,Cloud Prod
+Chemco,Azure Active Directory & Identity Access Management Assessment,01-CHEMC2017-002-PS,Cloud Prod
+Pembina Pipeline Corporation,Microsoft Consulting Services,01-PEMBI2017-004-PS,Other
+Travel Alberta,Dev/Ops August Tasks,01-TRAVA2017-007-PS,Azure
+Bellatrix Exploration,Data Center Refresh AFE 17090171,01-BELLA2017-005-PS,Mod Comp
+Corrosion Service Company Limited,SharePoint Workshop,13-CORRO2017-001-PS-MF,Cloud Prod
+Calfrac Well Services,IOT Data Architect,12-CALFR2017-004-PS,Data
+DynaLIFE,Microsoft Security Assessment,14-DYNAL2017-001-PS-MF,Cloud Prod
+Bellatrix Exploration,G&A AFE 900.44,01-BELLA2017-006-PS,Mod Comp
+City of Airdrie,Desktop Deployment Planning Services,01-CITYC2017-001-PS-MF-PCM,Mod Comp
+The County of Huron,Microsoft Exchange CU17 Upgrade Support,13-COUNB2017-001-PS,Cloud Prod
+ATCO Ltd,Windows 10 Platform Engineering,12-ATCOG2017-002-PS,Mod Comp
+Vista Projects,Infrastructure Support,16-VISTB2017-002-PS,Other
+City of Saskatoon,Implementing OMS,15-CITYB2017-001-PS-PCM,Azure
+City of Saskatoon,Migrating Application to Microsoft Azure Infrastructure Services,15-CITYB2017-002-PS-PCM,Azure
+Lululemon,End-User Environment Modernization Readiness Initiative,10-LULU2017-002-PS,Mod Comp
+Access Pipeline,Asset Management Systems Assessment,12-ACCES2017-011-PS,Other
+CPA Ontario,Exchange 2013 Troubleshooting,13-CPA2017-002-PS,Cloud Prod
+Corix Infrastructure Inc.,Office 365 Migration,10-CORIX2017-003-PS,Cloud Prod
+ATCO Ltd,Windows 10 Enterprise Pilot2,12-ATCOG2017-003-PS,Mod Comp
+AltaGas,Office 365 and EMS Roadmap,12-ALTAG2017-001-PS,Cloud Prod
+Lululemon,Windows Resource,10-LULUL2017-008-PS,Mod Comp
+Lululemon,Citrix XenApp & XenDesktop On-premise Upgrade & Deployment,10-LULUL2017-005-PS,Mod Comp
+Government of Yukon,Azure Jumpstart & StorSimple Deployment,14-GOVER2017-001-PS-MF,Azure
+Plains Midstream Canada ULC,Cloud Hybrid Mode Workshops,14-PLAIN2017-002-PS,Azure
+Travel Alberta,Dev/Ops September Tasks,01-TRAVA2017-009-PS,Azure
+Superior Glove Works,Migration to O365,13-SUPER2017-001-PS,Cloud Prod
+Plains Midstream Canada ULC,Cloud Migration & Integration,14-PLAIN2017-003-PS,Cloud Prod
+Pembina Pipeline Corporation,Veresen Exchange Integration & Planning,01-PEMBI2017-005-PS,Other
+Calfrac Well Services,Azure Foundations,12-CALFR2017-003-PS,Azure
+City of White Rock,Office 365 Assistance,10-CITYA2017-003-PS-PCM,Cloud Prod
+Access Pipeline,SSContacts Replacement,12-ACCES2017-012-PS,Other
+Ernst & Young,IT Insourcing Transition Support,13-DOMIN2017-001-PS,Azure
+Boardwalk Equities,SharePoint & OneDrive Strategy Framework,12-BOARD2017-003-PS,Cloud Prod
+Tundra Oil and Gas,Azure MFA & Intune Deployment,15-TUNDA2017-001-PS-MF-PCM,Mod Comp
+Aveda Transportation & Energy Services,Server Support,16-AVEDA2017-001-PS,Other
+Bellatrix Exploration,18090118 MS Enterprise Software-IT - MS Management Tools,01-BELLA2017-007-PS,Other
+Travel Alberta,Organizational IT Audit,01-TRAVA2017-006-PS,Other
+Rogers Insurance,Sharp Insurance Migration,01-ROGER2017-002-PS,Cloud Prod
+Bonavista Energy,Windows 10 Strategy Roadmap,01-BONAV2017-009-PS,Mod Comp
+Methanex Corporation,Office 365 ProPlus Discovery,10-METHA2017-001-PS,Cloud Prod
+Access Pipeline,Group Policy Firewall Rules Creation & Assistance,12-ACCES2017-014-PS,Mod Comp
+Lululemon,Evaluation & Migration of Group Policies from Windows 7 to 10,10-LULUL2017-007-PS,Mod Comp
+Lululemon,Domain Controller Build & Migration with Desired State Configuration,10-LULUL2017-006-PS,Cloud Prod
+Simple A,Discovery and Roadmap: Future-State Cloud and Managed Services,10-SIMPL2017-001-PS,Azure
+University of Manitoba,Office 365 Roadmap,15-UNIVA2017-001-PS-PCM,Cloud Prod
+Encana Corporation,Power BI Scoping,14-ENCAN2017-003-PS-MF,Data
+Calfrac Well Services,IOT Data Architect Phase 2,12-CALFR2017-005-PS,Data
+Canadian Natural Resources Limited,Azure Clean Up & Log Analytics Rollout,01-CANAD2017-001-PS-MF,Azure
+Alberta Securities Commission,SCCM Current Branch Implementation,01-ALBER2017-004-PS,Mod Comp
+Travel Alberta,Dev/Ops October Tasks,01-TRAVA2017-010-PS,Azure
+Access Pipeline,Strategic Roadmap,12-ACCES2017-013-PS,Other
+City of White Rock,Exchange Online,10-CITYA2017-004-PS-PCM,Cloud Prod
+Pengrowth Energy Corporation,Office 365 Roadmap,01-PENGR2017-002-PS,Cloud Prod
+Energy+ Inc.,Office 365 Migration Pilot,13-ENPLU2017-001-PS,Cloud Prod
+Pembina Hills School District,Azure Foundations Setup,01-PEMBA2017-001-PS-PCM,Azure
+ARC Financial,Exchange 2016 Upgrade,12-ARCFI2017-001-PS,Cloud Prod
+Energy+ Inc.,Microsoft Intune POC,13-ENPLU2017-002-PS,Mod Comp
+Tundra Energy Marketing Limited,Ad-Hoc Consulting,01-TUNDR2017-004-PS,Azure
+Methanex Corporation,Office 365 ProPlus Deployment,10-METHA2017-002-PS,Cloud Prod
+WZR Development ULC,Azure Foundation Setup & FileServer Migration,17-WESTE2017-002-PS-PCM,Azure
+The County of Huron,SCCM Upgrade,13-COUNB2017-002-PS,Mod Comp
+Paramount Resources LTD.,Merger/Acquisition Transition,12-PARAM2017-004-PS,Other
+Stratiform,Presales,STRAT2017-004-PS,Other
+City Of Calgary,Windows 10 In-Place Upgrade,01-CITYO2017-003-PS-MF,Mod Comp
+Superior Glove Works,Azure Active Directory Planning & Deployment,13-SUPER2017-003-PS,Cloud Prod
+Travel Alberta,Dev/Ops November Tasks,01-TRAVA2017-010-PS,Azure
+Bonavista Energy,Migration to SharePoint Online,01-BONAV2017-010-PS,Cloud Prod
+Tourmaline Oil Corp,Exchange Online Migration,17-TOURM2017-001-PS-PCM,Cloud Prod
+City of Airdrie,Office 365 FastTrack Planning,01-CITYC2017-002-PS-MF-PCM,Cloud Prod
+City of White Rock,SharePoint & OneDrive for Business Workshop,13-CITYA2017-005-PS-PCM,Cloud Prod
+Prophit Management,Exchange Online Migration,16-PROPH2017-001-PS,Cloud Prod
+Egg Farmers of Alberta,Office 365 Project,16-EGGFA2017-001-PS,Cloud Prod
+De Beers Canada Inc.,SharePoint Assessment,14-DEBEE2017-005-PS,Cloud Prod
+Obsidian Energy,IT Assessment,14-OBSID2017-001-PS,Azure
+Plains Midstream Canada ULC,Network Troubleshooting,01-PLAIN2017-002-PS,Azure
+Lululemon,Azure FastTrack,10-LULUL2017-010-PS,Azure
+St. Albert Public Schools,AD/Azure Environment Support,STALB2017-001-PS-PCM,Azure
+CashCo Financial,Azure Connectivity Redundancy,CASHC2017-001-PS-PCM,Azure
+SOCAN,OneDrive for Business Pilot,13-SOCAN2017-001-PS-PCM,Cloud Prod
+AltaGas,Azure Architect,12-ALTAG2017-005-PS,Azure
+County of Rocky View,Windows 10 & SCOM Review,01-COUNT2017-005-PS,Mod Comp
+Pengrowth Energy Corporation,Tenant Review and Recommendations,01-PENGR2017-004-PS,Azure
+Travel Alberta,Dev/Ops December Tasks,01-TRAVA2017-010-PS,Azure
+Stratiform,Internal PS Billing,STRAT2018-001-PS,Other
+City of Moose Jaw,SQL Assessment,15-CITYH2017-001-PS-PCM,Data
+Tundra Energy Marketing Limited,Domain Migration,14-TUNDR2017-006-PS,Cloud Prod
+Methanex Corporation,Deskside Support Technician,10-METHA2017-003-PS,Mod Comp
+Lululemon,Deploy Windows Imaging - ELO Machines,10-LULUL2017-011-PS,Mod Comp
+AltaGas,O365 and Azure Cloud Foundation,01-ALTAG2017-006-PS,Cloud Prod
+Polaris Transportation Group,Retainer,13-POLAR2017-001-PS,Azure
+Ernst & Young,IT Insourcing Transition Support - Extension,13-DOMIN2017-001-PS,Azure
+Tundra Energy Marketing Limited,Microsoft Azure Backup Server,01-TUNDR2017-008-PS,Azure
+Peoples Trust,EMS Workshop,10-PEOPL2017-001-PS,Cloud Prod
+Apotex,O365 SharePoint Framework,13-APOTE2017-001-PS-MF,Cloud Prod
+Plains Midstream Canada ULC,Cloud Migration & Integration - Phase 2,01-PLAIN2018-001-PS,Azure
+Aurora Cannabis Enterprises Inc.,Active Directory Design,12-AUROR2018-001-PS,Cloud Prod
+Catholic Cemeteries & Funeral Services,Office 365 Migration,13-CATHO2017-001-PS,Cloud Prod
+Travel Alberta,Branching,01-TRAVA2018-001-PS,Azure
+City of Moose Jaw,Office 365 Migration,00-CITYH2017-002-PS,Cloud Prod
+Calfrac Well Services,SharePoint Support,16-CALFR2018-001-PS,Cloud Prod
+Burnco,Senior SCCM Architect & Packaging Resource,01-BURNC2018-001-PS,Mod Comp
+City of Windsor,SCCM Implementation,13-CITYK2017-002-PS,Mod Comp
+Obsidian Energy,Hyper-V Storage Advisory,12-OBSID2018-001-PS,Azure
+Travel Alberta,Security Hardening,01-TRAVA2018-001-PS,Azure
+Bonavista Energy,Application Packaging,18-BONAV2018-002-PS,Mod Comp
+AltaGas,ETRM,12-ALTAG2018-001-PS,Azure
+City of Whitehorse,SharePoint Health Check,01-CITYJ2018-001-PS,Cloud Prod
+Hopewell Group of Companies,Azure Site Recovery Implementation,01-HOPEW2018-001-PS,Azure
+Access Pipeline,Windows 10 Upgrade,12-ACCES2018-001-PS,Mod Comp
+Pembina Pipeline Corporation,Windows 10 Readiness & Packaging,01-PEMBI2018-001-PS,Mod Comp
+WestJet Encore,Encore - General Consulting,12-WESTJ2018-001-PS,Dev
+City of Whitehorse,AD Health Check Assessment,01-CITYJ2017-001-PS-PCM,Cloud Prod
+THE BRENDA STRAFFORD FOUNDATION LTD,SharePoint Database Migration,22-BREND2018-001-PS,Cloud Prod
+City of Surrey,Windows 10 In-Place Upgrade,10-CITYG2017-001-PS-MF,Mod Comp
+Aurora Cannabis Enterprises Inc.,AD Implementation,19-AUROR2018-003-PS,Cloud Prod
+Tridel,Email & CRM Troubleshooting,20-TRIDE2018-001-PS,Cloud Prod
+WZR Development ULC,Azure Migration Phase 2,18-WESTE2017-003-PS,Azure
+Parkland Fuel Corporation,Licensing Server Support,18-PARKL2018-001-PS,Other
+AltaGas,Interim Windows 10 Image,12-ALTAG2018-003-PS,Mod Comp
+Bonavista Energy,Cloud Transformation Roadmap,18-BONAV2017-014-PS,Azure
+Igloo Building Supplies,CSP to EA Migration,21-IGLOO2018-001-PS,Azure
+AltaGas,QualiWare Implementation,12-ALTAG2018-002-PS,Azure
+LMS Limited Partnership,Office Move Support,10-LMSRE2018-001-PS,Mod Comp
+Corix Infrastructure Inc.,ADFS Application Work,10-CORIX2018-001-PS,Cloud Prod
+Aurora Cannabis Enterprises Inc.,Office 365 Implementation,19-AUROR2018-002-PS,Cloud Prod
+Town Of Cochrane,Microsoft Consulting,01-TOWNO2017-002-PS,Other
+County of Rocky View,Win 10 GPO Review & Migration w/SCCM Upgrade,22-COUNT2017-007-PS,Mod Comp
+SI Systems,SCCM & Windows 10 Support,06-SISYS2018-001-PS,Mod Comp
+Hydro One Networks Inc,Azure Base Framework,23-HYDRO2017-001-PS-MF,Azure
+Plains Midstream Canada ULC,Office 365 Migration - Plan & Envision,01-PLAIN2017-004-PS,Cloud Prod
+Access Pipeline,Enterprise Architect ,12-ACCES2018-002-PS,Other
+Tundra Energy Marketing Limited,SCADA Backup Assessment,01-TUNDR2017-009-PS,Azure
+Ernst & Young,DDC MSSP - Network QA,13-DOMIN2017-001-PS,Azure
+Boardwalk Equities,SharePoint & OneDrive Phase 2,12-BOARD2018-001-PS,Cloud Prod
+TEML Saskatchewan Pipelines Limited,SQL Assessment & Health Check,01-TUNDR2018-001-PS,Data
+Boyd Group of Companies,Azure ASM to ARM Migration,01-BOYDG2018-001-PS,Azure
+SI Systems,SCCM Reconditioning,18-SISYS2018-002-PS,Mod Comp
+GMP SECURITIES L.P.,Exchange Online Migration,23-GMPSE2018-001-PS-PCM,Cloud Prod
+County of Grand Prairie,Office 365 Base Framework,24-COUNC2018-001-PS-MF,Cloud Prod
+WestJet,General Consulting,12-WESTA2018-002-PS,Dev
+TransAlta Corporation,Modern Desktop Pilot Application,01-TRANS2018-001-PS-MF,Mod Comp
+TransAlta Corporation,StoreSimple Migration,01-TRANS2018-003-PS,Azure
+Parkland Fuel Corporation,Microsoft Resourcing - Active Directory,18-PARKL2018-002-PS,Cloud Prod
+TransAlta Corporation,EMS Advanced Workloads POC,01-TRANS2018-002-PS-MF,Cloud Prod
+MD Billing,Azure Migration,20-MDBIL2018-01-PS,Azure
+Parex Resources,AdHoc Microsoft Consulting Services,01-PAREX2018-001-PS,Azure
+PE Computer Services Ltd o/a Go Auto,Windows 10 Consulting,01-GOAUT2018-001-PS,Mod Comp
+Ernst & Young,Training,13-DOMIN2018-002-PS,Azure
+Tourmaline Oil Corp,OneDrive Planning,25-TOURM2018-001-PS,Cloud Prod
+Regina Library,Skype for Business Online Voice Pilot,26-REGIN2018-001-PS,Cloud Prod
+Reamined,SQL Assessment,20-REAMI2018-001-PS,Data
+MANITOBA HYDRO,Office 365 POC,28-MANIT2018-001-PS,Cloud Prod
+MANITOBA HYDRO,Azure Base Framework,28-MANIT2018-002-PS,Azure
+AltaGas,ETRM UAT Environment,12-ALTAG2018-004-PS,Azure
+Tundra Energy Marketing Limited,Onboarding Activities,01-TUNDR2018-002-PS,Other
+WZR Development ULC,Email Retention Policy Implementation,18-WESTE2018-004-PS,Cloud Prod
+Guardian Chemicals,SharePoint Support,27-GUARD2018-001-PS,Cloud Prod
+City of White Rock,Exchange Hybrid Clean Up Activities,12-CITYA2018-001-PS,Cloud Prod
+Dominion Diamond,Advanced Network Support,13-DOMIN2018-001-PS,Azure
+Tourmaline Oil Corp,Cloud Services Roadmap,25-TOURM2018-002-PS,Azure
+Royal Conservatory of Music,Emergency & Adhoc Support,13-ROYAL2018-002-PS,Cloud Prod
+SI Systems,Modern Management,18-SISYS2018-005-PS,Mod Comp
+SI Systems,Ad Hoc Consulting,18-SISYS2018-003-PS,Mod Comp
+WestJet,Modern Desktop Pilot,31-WESTA2018-001-PS-MF,Mod Comp
+Tourmaline Oil Corp,Azure AD and Authentication,25-TOURM2018-003-PS,Cloud Prod
+Lululemon,Citrix GSD Application Deployment ,10-LULUL2018-001-PS,Mod Comp
+ATCO Electric Ltd - Transmission Division,SCCM Upgrade,29-ATCOG2018-001-PS,Mod Comp
+WZR Development ULC,Azure Migration Phase 4 - O365 Migration,18-WESTE2018-002-PS,Azure
+SI Systems,Windows 10 and Intune Strategy and Roadmap,18-SISYS2018-004-PS,Mod Comp
+Pembina Pipeline Corporation,Active Directory Upgrade,01-PEMBI2018-002-PS,Cloud Prod
+ATCO Electric Ltd - Transmission Division,SCCM Implementation,29-ATCOG2018-002-PS,Mod Comp
+Immigrant Services Calgary,Microsoft O365 Consulting,01-IMMIG2018-001-PS,Cloud Prod
+Enerflex,.Net Application Troubleshooting,18-REGIN2018-001-PS,Dev
+Alberta Teacher's Association,Windows 10 Imaging,32-ALBEB2018-003-PS,Mod Comp
+AltaGas,Networking & Edge Security,12-ALTAG2018-008-PS,Azure
+Regional Municipality of Wood Buffalo,SharePoint Online Migration,24-REGIO2018-001-PS,Cloud Prod
+WZR Development ULC,Azure Migration Phase 4 - Workload Migration,18-WESTE2018-001-PS,Azure
+Hamilton Health Sciences,Sharepoint Workshops,HAMIL2018-001-PS,Cloud Prod
+Alberta Teacher's Association,Windows 10 and SCCM Consulting,32-ALBEB2018-001-PS,Mod Comp
+The York School,Azure AD Planning,13-THEYO2018-001-PS,Cloud Prod
+EQUITY FINANCIAL TRUST,MPLS/Express Route Review,30-EQUIT2018-003-PS,Azure
+Alberta Securities Commission,Windows 10 Support,01-ALBER2018-001-PS,Mod Comp
+Polaris Transportation Group,WordPress & PHP Websites to Azure PaaS Migration,33-POLAR2018-002-PS,Azure
+Trimac Management Services LP,PowerShell Scripting,01-TRIMA2018-001-PS,Dev
+Katalyst Data Management,Azure and Application Architecture - Phase 0,25-KATAL2018-001-PS,Azure
+Peoples Trust,Exchange Online Assessment,12-PEOPL2018-002-PS,Cloud Prod
+STURGEON COUNTY,Intune PoC,24-STURG2018-001-PS,Mod Comp
+Dominion Diamond,Azure Automation & B-Series PoC,13-DOMIN2018-003-PS,Azure
+WZR Development ULC,WordPress Authentication & Security,18-WESTE2018-006-PS,Azure
+AB Pension Services,Azure Stack Sizing Engagement,19-ABPEN2018-001-PS,Azure
+Burnco,ADFS Health Check,25-BURNC2018-002-PS,Cloud Prod
+Micotan Software Company Ltd.,Azure Security Assessment,01-MICOT2018-001-PS,Azure
+Parex Resources,SCCM Upgrade & Troubleshooting,01-PAREX2018-002-PS,Mod Comp
+WIPRO SOLUTIONS CANADA LIMITED,Windows 10 Migration,29-ATCOG2018-003-PS,Mod Comp
+Calfrac Well Services,Ad Hoc Resources,16-CALFR2018-002-PS,Other
+ClearStream Energy Holdings LP,Exchange Online Migration,32-CLEAR2018-001-PS,Cloud Prod
+Pason,Intune Consulting,25-PASON2018-001-PS-MF,Mod Comp
+THE BRENDA STRAFFORD FOUNDATION LTD,PCC Data Requirements Project,01-BREND2018-002-PS,Data
+Auto Canada,Office 365 Base Framework with Intune and Initial Mailbox Migration,01-AUTOC2018-001-PS,Cloud Prod
+Access Pipeline,Cloud Transformation Initiative,12-ACCES2018-003-PS,Azure
+Plains Midstream Canada ULC,Office 365 Migration - Build & Deploy,01-PLAIN2017-004-PS,Cloud Prod
+Servus Credit Union,Azure Scaffolding Engagement,19-SERVU2018-001-PS,Azure
+Nexen Energy Inc.,UPN Change Initiative,18-NEXEN2018-001-PS,Cloud Prod
+Polaris Transportation Group,Azure DR & Migration,33-POLAR2018-001-PS,Azure
+Belkorp Industries Inc.,Cloud Services Roadmap and Business Case,BELKO2018-001-PS,Azure
+Plains Midstream Canada ULC,SharePoint IaaS Migration,01-PLAIN2018-003-PS,Cloud Prod
+Bonavista Energy,Citrix Upgrade,18-BONAV2018-004-PS,Mod Comp
+Travel Alberta,"Digital Marketing Hardening, Remediation & Transformation Initiatives",01-TRAVA2018-002-PS,Azure
+Calfrac Well Services,Azure AD Premium Deployment,18-CALFR2018-003-PS,Cloud Prod
+Kinectrics Inc.,AD Remediation,33-KINEC2018-001-PS,Cloud Prod
+WZR Development ULC,Email Archive Recovery,18-WESTE2018-005-PS,Cloud Prod
+AltaGas,ADFS Implementation,12-ALTAG2018-011-PS,Cloud Prod
+Tundra Energy Marketing Limited,SCADA Backup Implementation,01-TUNDR2018-003-PS,Azure
+Katalyst Data Management,Azure and Application Architecture - Phase 1 Intirm LOE,25-KATAL2018-002-PS,Azure
+Calgary Public Library,FIM to MIM Migration,31-CALGE2018-002-PS,Cloud Prod
+AltaGas,MFA for Citrix,12-ALTAG2018-014-PS,Mod Comp
+Trinidad Drilling,Skype Call Quality Dashboard,35-TRINI2018-001-PS,Cloud Prod
+University of Manitoba,O365 Consulting,26-UNIVA2018-003-PS,Cloud Prod
+Jamieson Laboratories Ltd.,Azure SQL Database & Power BI POC,41-JAMIE2018-002-PS,Data
+inCuBE8r Inc.,Application Development,38-REZOL2018-001-PS,Dev
+United Safety Ltd.,Hybrid Exchange,25-UNITE2018-001-PS,Cloud Prod
+The OWL Solutions,Consulting,OWLSO2018-001-PS,Dev
+Enerflex,On-Call Support,18-ENERF2018-002-PS,Dev
+AltaGas,Windows 10 Limited Deployment,01-ALTAG2018-012-PS,Mod Comp
+Habanero Consulting Group,Independent Consulting,35-HABAN2018-001-PS,Mod Comp
+Calfrac Well Services,Azure Base Framework,18-CALFR2018-004-PS,Azure
+SI Systems,InTune POC,18-SISYS2018-006-PS,Mod Comp
+ARC Financial,Second Exchange Server,12-ARCFI2018-001-PS,Cloud Prod
+Driving Force,Active Directory Upgrade,32-DRIVI2018-001-PS,Cloud Prod
+Kinectrics Inc.,Windows 10 and SCCM,33-KINEC2018-002-PS,Mod Comp
+Liam Properties,O365 Migration,18-LIAMP2018-001-PS,Cloud Prod
+Aurora Cannabis Enterprises Inc.,Skype Troubleshooting,19-AUROR2018-006-PS,Cloud Prod
+Southview Alliance Church,Skype for Business Phone Migration,18-SOUTH2018-001-PS,Cloud Prod
+WZR Development ULC,M-Files Secure DMZ,18-WESTE2018-007-PS,Azure
+Plains Midstream Canada ULC,Fixed Fee Q9 Infrastructure Decom Tasks,01-PLAIN2018-004-PS,Azure
+Northwest Territories Power Corporation,"Windows 10, SCCM and GPO Consulting",24-NORTH2018-001-PS,Mod Comp
+AltaGas,SCCM 1806 Build,01-ALTAG2018-015-PS,Mod Comp
+Orlando Corporation,Active Directory Upgrade,43-ORLAN2018-001-PS,Cloud Prod
+Tourmaline Oil Corp,Cloud Services Execution,25-TOURM2018-004-PS,Azure
+Parkland Fuel Corporation,Microsoft Resourcing - Performance Monitoring & Troubleshooting,22-PARKL2018-005-PS,Cloud Prod
+ClearStream Energy Holdings LP,O365 Implementation & Migration,32-CLEAR2018-002-PS,Cloud Prod
+Hewlett Packard Enterprise,OneDrive for Business,23-HPE2018-001-PS,Cloud Prod
+"Brock Solutions, Inc.",Azure Assistance,23-BROCK2018-002-PS,Azure
+AGF Management Limited,InTune Pilot,30-AGFIN2018-005-PS,Mod Comp
+Access Pipeline,Desktop Support Resource,12-ACCES2018-005-PS,Mod Comp
+Innovative Targeting Solutions Inc.,Website Support,00-INNOV2018-001-PS,Azure
+THE BRENDA STRAFFORD FOUNDATION LTD,BI & Analytics Patient Care,46-BREND2018-002-PS,Data
+Parkland Fuel Corporation,Microsoft Resourcing-Active Directory,22-PARKL2018-007-PS,Cloud Prod
+City of Leduc,Office 365 Base Framework,32-CITYI2018-001-PS,Cloud Prod
+Access Pipeline,PM/BA for End User Compute,35-ACCES2018-008-PS,Mod Comp
+AGF Management Limited,Active Directory Health Check,23-AGFIN2018-004-PS-MF,Cloud Prod
+ENMAX Corporation,O365/AD Audit and Remediation,35-ENMAX2018-002-PS,Cloud Prod
+Dominion Diamond,ADFS Implementation,13-DOMIN2018-004-PS,Cloud Prod
+Dominion Diamond,Windows 10 Auto-Pilot POC,13-DOMIN2018-006-PS,Mod Comp
+Calgary Public Library,2-Tier Authentication,31-CALGE2018-003-PS,Cloud Prod
+TOWN OF HIGH RIVER,O365 Collaboration Demo,35-TOWNB2018-001-PS,Cloud Prod
+Aurora College,ADFS for Student Information System,32-AUROA2018-002-PS,Cloud Prod
+Lethbridge Regional Police Service,Windows 10 Consulting,31-LETHB2018-001-PS,Mod Comp
+PacWest Canopy,O365 Migration,16-PACWE2018-001-PS,Cloud Prod
+Graham Construction,SQL Assessment,01-GRAHB2018-001-PS,Data
+Wood Buffalo Environmental Association,IT Services Roadmap,40-WOODB2018-001-PS,Azure
+The OWL Solutions,Dashboard MVP,00-OWLSO2018-002-PS,Dev
